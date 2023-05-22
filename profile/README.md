@@ -1,45 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Capjjang&fontSize=90&fontAlignY=40&desc=2023%20HSU%20CapstoneDesign&descAlign=70)
 
 <br><br>
-<br><br>
-
+<br>
 <div align="center">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCapjjang23&count_bg=%232F2F5E&title_bg=%23AEAEAE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
 
 <br>
 <br><br>
 
-## 👻 Team Member
-<table>
-  <tr> 
-    <td><a href="https://github.com/Ga-Long"><img src="https://avatars.githubusercontent.com/u/100428958?v=4"></a></td>
-    <td><a href="https://github.com/kimgwon"><img src="https://avatars.githubusercontent.com/u/92065911?v=4"></a></td>
-    <td><a href="https://github.com/youngchive"><img src="https://avatars.githubusercontent.com/u/102659915?v=4"></a></td>
-    <td><a href="https://github.com/mmihye"><img src="https://avatars.githubusercontent.com/u/92644651?v=4"></a></td>
-  </tr>
-  <tr> 
-    <td><strong>이가현</strong></td> 
-    <td><strong>김지원</strong></td> 
-    <td><strong>조서영</strong></td> 
-    <td><strong>석미혜</strong></td> 
-  </tr>
-  <tr> 
-    <td><a href="https://github.com/Ga-Long">@GaShine</a></td>
-    <td><a href="https://github.com/kimgwon">@kimgwon</a></td>
-    <td><a href="https://github.com/youngchive">@youngchive</a></td>
-    <td><a href="https://github.com/mmihye">@mmihye</a></td>
-  </tr>
-</table>
-
-<br><br>
-## Title
+## :fire: Title
 Deep Learning을 이용한 손글씨 음향신호 인식 기술
 
 <br><br>
-## Introduction
+## :raised_hands: Introduction
 안녕하세요. 2023년도 한성대학교 캡스톤디자인에 참가한 '캡짱'입니다. 캡짱은 소형 웨어러블 기기 사용 시 작은 키보드 입력에 불편함을 느끼는 사람들을 위해 손글씨 음향신호 인식 기술을 개발하였습니다. 약 50명의 사람들을 대상으로 책상 위에서 알파벳을 쓸 때 발생하는 음향 데이터셋을 수집하였고, Resnet-32로 학습시켜 모델을 만들었습니다. Write now는 워치용 어플로 책상에서 쓴 손글씨를 인식하여 화면에 나타내고, 복사하여 키보드처럼 사용할 수 있으며 긴급전화를 걸 수 있는 기능도 제공합니다. 또한, Right now는 아이들의 손글씨 음향을 인식하 여 영단어를 맞게 썼는지 채점해주는 학습용으로 활용할 수 있습니다
 * **기대효과**
 1. 다양한 응용 분야: 글자 입력 기반의 사용자 인터페이스 개선, 필기인식시스템,손글씨기반의자동번역및인식기술등 다양한 분야에서 활용될 수 있습니다.
@@ -47,8 +23,17 @@ Deep Learning을 이용한 손글씨 음향신호 인식 기술
 3. 접근성 개선: 음성이나 동작에 어려움이 있는 사용자들에게 정보 접근성을 개선해줍니다. 시각 장애인이나 신체적 제약이 있는 사람들도 손글씨로 표현된 정보를 소리로 변환하여 인식할 수 있어, 다양한 사용자들이 정보에 자유롭게 접근할 수 있습니다.
 
 <br><br>
-## 실행화면
-실행화면
+## :eyes: 실행화면
+* **Watch** :watch:
+  <img width="100%" alt="image" src="https://github.com/Capjjang23/.github/assets/92065911/08fb70df-859d-4dca-ad84-6ca1ef4a6520">
+  <br>
+* **Phone** :iphone:
+  <img width="100%" alt="image" src="https://github.com/Capjjang23/.github/assets/92065911/3acf80b7-fa8d-4b8d-aadf-1066ba7d8a7f">
+
+
+  
+
+
 
 <br><br>
 ## 🔨 Skill
@@ -60,12 +45,27 @@ Deep Learning을 이용한 손글씨 음향신호 인식 기술
 <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
 <br>
 **Main Tech**
-<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/cnn-CC0000?style=flat&logo=cnn&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/ResNet-000000?style=flat&logoColor=white"/>
 <br>
 **IDE** 
-<img src="https://img.shields.io/badge/androidstudio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
-<img src="https://img.shields.io/badge/pycharm-000000?style=flat&logo=pycharm&logoColor=white"/>
-<br>
-<br>
-<br>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white"/>
+
+
+<br><br>
+## 👻 Member
+<table>
+  <tr> 
+    <td><a href="https://github.com/Ga-Long"><img src="https://avatars.githubusercontent.com/u/100428958?v=4"></a></td>
+    <td><a href="https://github.com/kimgwon"><img src="https://avatars.githubusercontent.com/u/92065911?v=4"></a></td>
+    <td><a href="https://github.com/youngchive"><img src="https://avatars.githubusercontent.com/u/102659915?v=4"></a></td>
+    <td><a href="https://github.com/mmihye"><img src="https://avatars.githubusercontent.com/u/92644651?v=4"></a></td>
+  </tr>
+  <tr> 
+    <td align='center'><strong>이가현</strong></td> 
+    <td align='center'><strong>김지원</strong></td> 
+    <td align='center'><strong>조서영</strong></td> 
+    <td align='center'><strong>석미혜</strong></td> 
+  </tr>
+</table>
