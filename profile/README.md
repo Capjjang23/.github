@@ -1,4 +1,6 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Capjjang&fontSize=90&fontAlignY=40&desc=2023%20HSU%20CapstoneDesign&descAlign=70)
+
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCapjjang23&count_bg=%232F2F5E&title_bg=%23AEAEAE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
