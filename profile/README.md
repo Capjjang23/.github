@@ -44,6 +44,7 @@ Deep Learning을 이용한 손글씨 음향신호 인식 기술
 **Main Tech**
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/ResNet-000000?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Librosa-7F2B7B?style=flat"/>
 <br>
 **IDE** 
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white"/>
