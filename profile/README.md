@@ -55,7 +55,7 @@ Deep Learning을 이용한 손글씨 음향신호 인식 기술
 ## 👻 Member
 <table>
   <tr> 
-    <td><a href="https://github.com/Ga-Long"><img src="https://avatars.githubusercontent.com/u/100428958?v=4"></a></td>
+    <td><a href="https://github.com/Ga-Long"><img src="https://avatars.githubusercontent.com/u/100428958?v=4" style="width:100px; height:100px;"></a></td>
     <td><a href="https://github.com/kimgwon"><img src="https://avatars.githubusercontent.com/u/92065911?v=4"></a></td>
     <td><a href="https://github.com/youngchive"><img src="https://avatars.githubusercontent.com/u/102659915?v=4"></a></td>
     <td><a href="https://github.com/mmihye"><img src="https://avatars.githubusercontent.com/u/92644651?v=4"></a></td>
