@@ -26,6 +26,9 @@ Deep Learning을 이용한 손글씨 음향신호 인식 기술
   <br>
 * **Phone** :iphone:
   <img width="100%" alt="image" src="https://github.com/Capjjang23/.github/assets/92065911/3acf80b7-fa8d-4b8d-aadf-1066ba7d8a7f">
+* **BankingNow** 📱
+  ![뱅킹나우 목업 1 (1)](https://github.com/Capjjang23/.github/assets/100428958/cab3f17a-b8e3-4383-8a35-efbfbe65480c)
+
 
 
   
